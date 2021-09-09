@@ -58,11 +58,12 @@ void MethodTwo()
     println("Sunday");
   else
     println("What comes after sunday");
+
   // Print if it is weekend here:
 
 
   if (weekend ==true)
     print("Its weekend my dude");
   else 
-    print("Its weekday");
+  print("Its weekday");
 }
